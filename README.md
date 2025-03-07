@@ -4,10 +4,12 @@ Este projeto consiste em um chatbot baseado em LLM (Large Language Model) para a
 
 ## Tecnologias Utilizadas
 
-- **OpenAI** - Para geração de respostas e embeddings
-- **Streamlit** - Interface gráfica para o chatbot
-- **FAISS** - Banco de dados vetorial para busca semântica
-- **Flask** - API para consultas e gerenciamento de atendimentos
+| Tecnologia  | Descrição                      |
+|------------|--------------------------------|
+| ![OpenAI](https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg) | Para geração de respostas e embeddings |
+| ![Streamlit](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg) | Interface gráfica para o chatbot |
+| ![FAISS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSuUjzC-hxQNWJEOrl1qmtEATmf5iROLasg&s) | Banco de dados vetorial para busca semântica |
+| ![Flask](https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg) | API para consultas e gerenciamento de atendimentos |
 
 ## Como Rodar o Projeto
 
@@ -20,8 +22,8 @@ Este projeto consiste em um chatbot baseado em LLM (Large Language Model) para a
 1. Clone o repositório:
 
 ```bash
-https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+https://github.com/ThiagoJFreitas/skytrack_chatbot_LLM.git
+cd skytrack_chatbot_LLM
 ```
 
 2. Crie o ambiente virtual:
@@ -59,7 +61,7 @@ api_key:
   key: "sua_api_key"
 
 model:
-  name: "gpt-3.5-turbo"
+  name: "gpt-4o"
 ```
 
 6. Rode o servidor Flask:
