@@ -9,6 +9,9 @@ Este projeto consiste em um chatbot baseado em LLM (Large Language Model) para a
 - **FAISS** - Banco de dados vetorial para busca semântica
 - **Flask** - API para consultas e gerenciamento de atendimentos
 
+## Arquitetura do Chatbot
+
+![Arquitetura do Chatbot](https://github.com/ThiagoJFreitas/skytrack_chatbot_LLM/blob/main/assets/arquitetura.jpg)
 
 ## Como Rodar o Projeto
 
