@@ -4,12 +4,11 @@ Este projeto consiste em um chatbot baseado em LLM (Large Language Model) para a
 
 ## Tecnologias Utilizadas
 
-| Tecnologia  | Descrição                      |
-|------------|--------------------------------|
-| ![OpenAI](https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg) | Para geração de respostas e embeddings |
-| ![Streamlit](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg) | Interface gráfica para o chatbot |
-| ![FAISS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSuUjzC-hxQNWJEOrl1qmtEATmf5iROLasg&s) | Banco de dados vetorial para busca semântica |
-| ![Flask](https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg) | API para consultas e gerenciamento de atendimentos |
+- **OpenAI** - Para geração de respostas e embeddings
+- **Streamlit** - Interface gráfica para o chatbot
+- **FAISS** - Banco de dados vetorial para busca semântica
+- **Flask** - API para consultas e gerenciamento de atendimentos
+
 
 ## Como Rodar o Projeto
 
