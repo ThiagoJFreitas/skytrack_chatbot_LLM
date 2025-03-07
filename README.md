@@ -82,9 +82,9 @@ streamlit run chat.py
 
 9. Screenshots
 
-![Interface do Chatbot](https://github.com/Thiago-Santos/chatbot-drone-ficticio/assets/10100987/f8f7f0e8-a8a0-4f3b-b4e7-c1c2c3c4c5d6)
-![Interface do Chatbot](https://github.com/Thiago-Santos/chatbot-drone-ficticio/assets/10100987/a8a0a1a2-a8a0-4f3b-b4e7-c1c2c3c4c5d6)
-![Interface do Chatbot](https://github.com/Thiago-Santos/chatbot-drone-ficticio/assets/10100987/a8a0a1a2-a8a0-4f3b-b4e7-c1c2c3c4c5d6)
+![Interface do Chatbot](https://github.com/ThiagoJFreitas/skytrack_chatbot_LLM/blob/main/assets/demo1.jpg)
+![Interface do Chatbot](https://github.com/ThiagoJFreitas/skytrack_chatbot_LLM/blob/main/assets/demo2.jpg)
+
 
 ---
 
